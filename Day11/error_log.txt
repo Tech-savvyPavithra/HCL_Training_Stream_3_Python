@@ -1,0 +1,2 @@
+Error: Cannot divide by zero!
+Error: Invalid number entered!
